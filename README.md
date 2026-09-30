@@ -1,33 +1,25 @@
-# BOZ213d01a01-Python-IDLE-ile-dort-islem-hesaplama
-
-Python 4 İşlem Hesap Makinesi
+# Python 4 İşlem Hesap Makinesi
 
 Bu proje Python kullanılarak hazırlanmış basit bir 4 işlem hesap makinesidir.
 
-Özellikler
+## Özellikler
 
-Toplama
+- Toplama
+- Çıkarma
+- Çarpma
+- Bölme
 
-Çıkarma
-
-Çarpma
-
-Bölme
-
-Kullanım
+## Kullanım
 
 Program çalıştırıldığında iki sayı girmeniz istenir. Program bu sayılarla 4 işlemi gerçekleştirir.
 
-Gereksinimler
+## Gereksinimler
 
-Python 3
+- Python 3
 
-Çalıştırma
+## Çalıştırma
 
 Terminal veya IDLE üzerinden aşağıdaki dosyayı çalıştırabilirsiniz:
 
+```bash
 python x.py
-
-Geliştirici
-
-Bu proje Python öğrenme amacıyla hazırlanmıştır.
